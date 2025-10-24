@@ -33,7 +33,7 @@ lib/
 ## 🚀 Getting Started
 
 1. **Clone the repository**
-git clone https://github.com/yourusername/daily_test_app.git
+git clone https://github.com/phyowaikyaw-mobiledev/daily_test_app.git
 cd daily_test_app
 
 2. **Install packages**
